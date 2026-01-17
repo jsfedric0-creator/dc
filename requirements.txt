@@ -1,1 +1,10 @@
-# requirements.txt
+flask==2.3.3
+flask-login==0.6.3
+flask-cors==4.0.0
+requests==2.31.0
+python-multipart==0.0.6
+sqlalchemy==2.0.19
+cryptography==41.0.7
+psutil==5.9.6
+redis==5.0.1
+gunicorn==21.2.0
